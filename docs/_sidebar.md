@@ -11,6 +11,8 @@
          - [1.1.1.2 Brainstorming](/Base/1.1.1.2.Brainstorming.md)
          - [1.1.1.3 Diagrama de Causa e Efeito](/Base/1.1.1.3.DiagramaCausaEfeito.md)
          - [1.1.1.4 Questionário](/Base/1.1.1.4.Questionario.md)
+         - [1.1.1.5 Ata de reunião (30/03/2026)](/Base/1.1.1.5.AtaReuniao30032026.md)
+         - [1.1.1.6 Tabela de requisitos (FCTE_HOJE)](/Base/1.1.1.6.TabelaRequisitosFCTE_Hoje.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1 5W2H](/Base/1.1.1.1.5w2h.md)
       - [1.2.2 Diagrama de Causa e Efeito](/Base/1.1.1.3.DiagramaCausaEfeito.md)
