@@ -97,3 +97,9 @@
 
 **Redator:** Felipe Lopes Pedroza  
 **Data do documento:** 30/03/2026
+
+## Histórico de versões
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da revisão |
+|--------|------|-----------|-----------|-------------|-----------------|
+| `1.0` | 30/03/2026 | Criação do documento. | [Felipe Lopes Pedroza](https://github.com/darkymeubem) | | |
