@@ -14,7 +14,6 @@
     - [1.1.1.2. Brainstorming](/Base/1.1.1.2.Brainstorming.md)
     - [1.1.1.3. Diagrama de Causa e Efeito](/Base/1.1.1.3.DiagramaCausaEfeito.md)
     - [1.1.1.4. Questionário](/Base/1.1.1.4.Questionario.md)
-    - [Tabela de requisitos (FCTE_HOJE)](/Base/1.1.1.6.TabelaRequisitosFCTE_Hoje.md)
   - [1.1.2. Sketch](/Base/1.1.2.Sketch.md)
     - [1.1.2.1. Rich Picture](/Base/1.1.2.1.RichPicture.md)
   - [1.1.3. Decision](/Base/1.1.3.Decision.md)
