@@ -8,7 +8,7 @@
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
-  - [1.1. Design Sprint](/docs/Base/1.1.DesignSprint.md)
+  - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
   - [1.1.1. Unpack](/Base/1.1.1.Unpack.md)
     - [1.1.1.1. 5W2H](/Base/1.1.1.1.5w2h.md)
     - [1.1.1.2. Brainstorming](/Base/1.1.1.2.Brainstorming.md)
