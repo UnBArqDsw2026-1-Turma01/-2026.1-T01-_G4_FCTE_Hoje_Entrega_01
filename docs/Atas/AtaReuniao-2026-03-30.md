@@ -1,20 +1,16 @@
-# Ata de reunião — Plataforma FCTE
+# Ata de Reunião 01
 
-**Referência:** 30 de março de 2026 · Brainstorming (integra o ciclo Unpack do Design Sprint)
-
-[← Sumário das atas](/Atas/Atas.md)
-
-## Identificação
+## Identificação da Reunião
 
 | Campo | Valor |
 |-------|-------|
-| **Data** | 30 de março de 2026 |
-| **Horário** | 22h13 (-03) |
-| **Duração** | ~25 minutos |
-| **Local** | FCTE — Faculdade de Ciências e Tecnologia da Engenharia |
-| **Pauta** | Brainstorming — Plataforma de Notícias e Integração Acadêmica |
+| **Data** | 30 de Março de 2026 |
+| **Horário** | 22h15 |
+| **Duração** | 25 minutos |
+| **Local** | Microsoft Teams |
+| **Pauta** | Brainstorming |
 
-## Presentes (todos)
+## Presentes
 
 | Matrícula | Nome |
 |-----------|------|
@@ -33,73 +29,27 @@
 
 ## Pontos discutidos
 
-### 1. Perfil de usuário
+Foi realizada uma sessão de brainstorming conduzida com o objetivo de maximizar a criatividade e a eficácia das contribuições, seguindo diretrizes previamente estabelecidas. A dinâmica foi estruturada para incentivar a reflexão dos participantes sobre funcionalidades e necessidades reais dos usuários. A partir disso, os principais pontos discutidos foram:
 
-- Alunos da FCTE
-- Professores
-- Bolsistas
-
-### 2. Filtros de notícias
-
-- Por categoria, data, eventos.
-- Exemplos: “Hoje”, “Ontem”, “Esta semana”.
-- **Consenso:** filtros são úteis e fazem sentido.
-
-### 3. Sistema de notificações
-
-- **Importância:** alta.
-- **Mobile:** mais plausível.
-- **Web:** secundário.
-
-**Customização:**
-
-- Período (diário / semanal).
-- Prioridade (eventos / editais).
-- Temas de interesse.
-
-### 4. Conteúdos propostos
-
-- Jornal / notícias gerais.
-- Rede social (opcional).
-- Grupos de divulgação.
-- Equipes de competição.
-- Eventos / editais / matérias.
-- TCCs / monitoria.
-- Mapa de salas de professores.
-- Projetos da comunidade (NoFluxo, Turmas, SuaGrade UnB).
-
-### 5. Calendário
-
-- Integração Google Agenda / celular.
-- Misturar com notícias e eventos?
-- **Interesse geral:** sim.
+1. **Perfil de Usuários:** alunos da FCTE, professores e técnicos administrativos.
+1. **Filtros de Notícias:** por categoria, data e eventos (ex.: hoje, ontem, semana). O grupo concorda que os filtros são úteis.
+1. **Sistema de Notificações:** considerado importante; prioridade para uso em dispositivos móveis. Customização por período, prioridade e temas.
+1. **Conteúdos Propostos:** notícias gerais, rede social opcional, grupos de divulgação, equipes de competição, eventos/editais, matérias, TCCs, monitoria, mapa de salas de professores e projetos da comunidade (NoFluxo, Turmas, SuaGrade UnB).
+1.  **Calendário:** interesse geral em integração com Google Agenda/celular, com a possibilidade de unificar com notícias e eventos.
 
 ## Decisões
 
-| Item | Status |
-|------|--------|
-| Filtros por categoria / data | ✅ Aprovado |
-| Notificações customizáveis | ✅ Aprovado |
-| Calendário integrado | ✅ Aprovado |
-| Níveis de acesso | ✅ Aprovado |
-| Modo offline (RU / calendário) | 🔍 Estudar |
+Os seguintes itens foram avaliados: filtros por categoria e data, notificações customizáveis, calendário integrado e níveis de acesso, sendo todos aprovados. No entanto, o modo offline (para RU e calendário) foi identificado como um ponto de análise e estudo para definição posterior.
 
 ## Próximos passos
 
-- Especificação técnica detalhada.
-- Protótipo da interface de filtros.
-- Modelo de dados de categorias.
-- API Google Calendar.
-- Cronograma de desenvolvimento.
-- **Próxima reunião:** a definir.
-
----
-
-**Redator:** Felipe Lopes Pedroza  
-**Data do documento:** 30/03/2026
+- Elicitação dos requisitos adquiridos no Brainstorming
+- Criação do Rich Picture individual
+- Realização do É - Não é - Faz - Não faz em uma reunião agendada para o dia **01/04/2026**, sendo parte da etapa de *Decision*.
+- Definição do Rich Picture em uma reunião agendada para o dia **01/04/2026**, sendo parte da etapa de *Decision*.
 
 ## Histórico de versões
-
 | Versão | Data | Descrição | Autor(es) | Revisor(es) | Data da revisão |
 |--------|------|-----------|-----------|-------------|-----------------|
-| `1.0` | 30/03/2026 | Criação do documento. | [Felipe Lopes Pedroza](https://github.com/darkymeubem) | | |
+| `1.0` | 30/03/2026 | Criação do documento. | [Felipe Lopes Pedroza](https://github.com/darkymeubem) | [Tiago Lemes](https://github.com/TiagoTeixeira-2005) | 31/03/2026 |
+| `2.0` | 31/03/2026 | Atualização do documento. | [Tiago Lemes](https://github.com/TiagoTeixeira-2005)  | | |
