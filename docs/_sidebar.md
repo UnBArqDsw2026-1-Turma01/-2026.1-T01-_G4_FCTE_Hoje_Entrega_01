@@ -24,6 +24,7 @@
     - [1.2.1. 5W2H](/Base/1.1.1.1.5w2h.md)
     - [1.2.2. Diagrama de Causa e Efeito](/Base/1.1.1.3.DiagramaCausaEfeito.md)
     - [1.2.3. Rich Picture](/Base/1.1.2.1.RichPicture.md)
+    - [1.2.4. Léxicos](/Base/1.2.4.Lexicos.md)
   - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
   - [1.4. Participações](/Base/1.4.ParticipacoesBase.md)
   - [1.5. Iniciativas Extras](/Base/1.5.IniciativasExtras.md)
