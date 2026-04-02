@@ -17,6 +17,7 @@
   - [1.1.2. Sketch](/Base/1.1.2.Sketch.md)
     - [1.1.2.1. Rich Picture](/Base/1.1.2.1.RichPicture.md)
   - [1.1.3. Decision](/Base/1.1.3.Decision.md)
+    - [1.1.3.1. É, Não É, Faz, Não Faz](/Base/1.1.3.1.E_NaoE_Faz_NaoFaz.md)
   - [1.1.4. Prototype](/Base/1.1.4.Prototype.md)
   - [1.1.5. Validate](/Base/1.1.5.Validate.md)
   - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
@@ -31,3 +32,4 @@
     - [1.5.3. Atas de Reuniões](/Atas/1.5.3.Atas.md)
       - [1.5.3.1. Reunião 30/03/2026](/Atas/AtaReuniao-2026-03-30.md)
       - [1.5.3.2. Reunião 01/04/2026](/Atas/AtaReuniao-2026-01-04.md)
+    - [1.5.4. É, Não É, Faz, Não Faz](/Base/1.1.3.1.E_NaoE_Faz_NaoFaz.md)
