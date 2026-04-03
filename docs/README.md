@@ -19,10 +19,22 @@
 | 23/1026590  |  Vilmar José Fagundes  |
 
 ## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O **FCTE Hoje** é uma plataforma mobile desenvolvida para atender às necessidades da comunidade universitária da Universidade de Brasília (UnB), especificamente do Campus Faculdade de Ciências e Tecnologias em Engenharia (FCTE). Seu principal objetivo é centralizar os canais de informação da FCTE, reunindo em um único ambiente comunicados, eventos, palestras, cardápio do RU, editais, além de informações sobre equipes de competição e empresas juniores. Dessa forma, a aplicação facilita a busca por dados relevantes e melhora o acesso às informações realmente importantes para a comunidade acadêmica.
+
+O projeto foi idealizado durante a disciplina de Arquitetura e Desenho de Software, no semestre 2026.1, e sua primeira entrega pode ser acessada por meio do seguinte repositório no [GitHub](https://github.com/UnBArqDsw2026-1-Turma01/-2026.1-T01-_G4_FCTE_Hoje_Entrega_01?tab=readme-ov-file). 
+
 
 ## Screenshots da Primeira Entrega
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+### Diagrama de Causa e Efeito
+![Diagrama de Ishikawa](./Assets/Diagrama%20Causa%20e%20Efeito/ishikawa.png)
+
+### É, Não É, Faz, Não faz
+**![É, Não É, Faz, Não Faz](./Assets/E_NaoE_Faz_NaoFaz.png)**
+
+### Rich Picture
+**![RichPicture_Selecionado](./Assets/RichPictureGeneralista.jpg)**
+
 
 ## Há algo a ser executado?
 
@@ -30,7 +42,6 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 (X) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
-
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+
+Não foi necessário informar nenhuma informação complementar.
