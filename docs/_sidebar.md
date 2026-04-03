@@ -1,10 +1,6 @@
 <!-- Navegação · FCTE Hoje · Entrega 01 -->
 
-- [Início](/docs)
-
-- **Projeto**
-  - [Visão geral](/docs/Projeto/Projeto.md)
-
+- [Início](/)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
