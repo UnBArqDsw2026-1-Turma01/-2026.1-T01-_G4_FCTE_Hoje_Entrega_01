@@ -6,9 +6,10 @@
 |-------|-------|
 | **Data** | 30 de Março de 2026 |
 | **Horário** | 22h15 |
-| **Duração** | 25 minutos |
+| **Duração** | 22 minutos |
 | **Local** | Microsoft Teams |
 | **Pauta** | Brainstorming |
+| **Gravação** | [Gravação da Reunião](https://youtu.be/tOYDIPylOQ4) |
 
 ## Presentes
 

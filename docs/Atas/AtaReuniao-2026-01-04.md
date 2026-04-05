@@ -6,9 +6,10 @@
 |-------|-------|
 | **Data** | 01 de Abril de 2026 |
 | **Horário** | 22h30 |
-| **Duração** | 30 minutos |
+| **Duração** | 22 minutos |
 | **Local** | Microsoft Teams |
 | **Pauta** | Definição do Rich Picture e realização do *É ,Não é, Faz, Não faz* |
+| **Gravação** | [Gravação da Reunião](https://youtu.be/1SU90FkKwxg) |
 
 ## Presentes
 
